@@ -1,8 +1,10 @@
 # 👨🏻‍💻 Luis Silva
 
-**`Engenheiro de Dados`**
+## **Backend Developer**
 
-Me chamo Luis Silva, sou de Teresina - PI. Sou formado em Análise e Desenvolvimento de Sistemas e um grande entusiasta da área de dados. Atualmente, estou focado em expandir meus conhecimentos. Gosto de construir pipelines, explorar arquiteturas de dados e desenvolver projetos que extraem valor real de grandes volumes de informações.
+Sou estudante de Ciência da Computação e estou direcionando minha carreira para Engenharia de Software, com foco em desenvolvimento backend com Java.
+
+Tenho interesse em construir APIs robustas, organizadas e escaláveis, aplicando boas práticas como Clean Code, SOLID e padrões de projeto. Venho evoluindo por meio de projetos práticos, fortalecendo minha base em backend e no uso de tecnologias modernas do ecossistema Java.
 
 <p align="left">
     <a href="https://github.com/luissilvaData?tab=repositories&sort=stargazers">
@@ -15,25 +17,16 @@ Me chamo Luis Silva, sou de Teresina - PI. Sou formado em Análise e Desenvolvim
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-    <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-    <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img align="left" alt="Apache Hadoop" title="Hadoop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
-    <img align="left" alt="Apache Spark" title="Spark" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
-    <img align="left" alt="Apache Kafka" title="Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
-    <img align="left" alt="Amazon Web Services" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-    <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="PostgreSQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt="Apache Kafka" title="Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+    <img alt="Amazon Web Services" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+    <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-<br/>
-<br/>
-
-<div style="clear: both;"></div>
-
